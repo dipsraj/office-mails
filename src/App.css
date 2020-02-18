@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.main-title, .main-title:hover{
+  text-decoration: none;
+  color: #111;
+}
